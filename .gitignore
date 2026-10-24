@@ -1,9 +1,0 @@
-# Assignment inputs and handout are kept local.
-rockyou.txt
-rockyou_Sample.txt
-shadow.txt
-Pa01_PasswdCrack.pdf
-
-# Python-generated files.
-__pycache__/
-*.py[cod]
